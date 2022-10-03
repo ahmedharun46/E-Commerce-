@@ -12,4 +12,4 @@ How to use mysql, sequilize, express together to build my application. Using for
 
 Git Hub Link: https://github.com/ahmedharun46/E-Commerce-
 
-ScreenRecording Link: 
+ScreenRecording Link: https://drive.google.com/file/d/1bnK3-p_hrlUf32um1I5fB2bMFBapnI2S/view
